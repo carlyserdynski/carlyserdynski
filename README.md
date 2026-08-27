@@ -22,7 +22,7 @@ University of Arizona student focused on data science, analytics, programming, a
 
 ## Projects
 
-Selected projects will be added here as I continue building my portfolio
+Selected projects will be added here as I continue building my portfolio.
 
 ## Interests
 

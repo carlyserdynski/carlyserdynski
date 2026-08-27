@@ -1,6 +1,6 @@
 # Carlyn Serdynski
 
-University of Arizona student building a strong foundation in data science, analytics, programming, and quantitative methods.
+University of Arizona student focused on data science, analytics, programming, and quantitative methods
 
 ## Technical Skills
 
@@ -22,7 +22,7 @@ University of Arizona student building a strong foundation in data science, anal
 
 ## Projects
 
-Projects will be added here as I continue building my portfolio.
+Selected projects will be added here as I continue building my portfolio
 
 ## Interests
 

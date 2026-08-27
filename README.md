@@ -1,16 +1,29 @@
-## Hi there 👋
+# Carlyn Serdynski
 
-<!--
-**carlyserdynski/carlyserdynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+University of Arizona student building a strong foundation in data science, analytics, programming, and quantitative methods.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- R
+- SQL
+- BigQuery
+- Data Visualization
+- Machine Learning
+- Data Mining
+- Data Warehousing & Cloud Analytics
+
+## Current Focus
+
+- Strengthening my background in machine learning and applied data science
+- Expanding my quantitative preparation through calculus and linear algebra
+- Building a portfolio of data science projects with real-world applications
+- Gaining research and applied data experience
+
+## Projects
+
+Projects will be added here as I continue building my portfolio.
+
+## Interests
+
+Data Science • Machine Learning • Healthcare Data • Analytics • Cloud Computing • Quantitative Research

@@ -4,15 +4,32 @@ University of Arizona student focused on data science, analytics, programming, a
 
 ## Technical Skills
 
+**Programming & Query Languages**
 - Python
 - R
 - SQL
-- BigQuery
+
+**Data & Analytics**
 - Data Visualization
 - Machine Learning
 - Data Mining
-- Data Warehousing & Cloud Analytics
+- Statistical Analysis
 
+**Tools & Technologies**
+- Google BigQuery
+- Cloud Analytics
+- Data Warehousing
+
+## Relevant Coursework
+
+- **ISTA 320 – Applied Data Visualization** — University of Arizona
+- **ISTA 431 – Data Warehousing and Analytics in the Cloud** — University of Arizona *(In Progress)*
+- **Calculus I** — *(In Progress)*
+
+## Certifications & Additional Training
+
+- Kaggle – Intro to Machine Learning
+  
 ## Current Focus
 
 - Strengthening my background in machine learning and applied data science
